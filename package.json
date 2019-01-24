@@ -1,0 +1,13 @@
+{
+  "name": "chatastrophe",
+  "version": "1.0.0",
+  "description": "A Chat PWA with React",
+  "main": "index.js",
+  "repository": "https://github.com/emmanuelmezie/chatastrophe.git",
+  "author": "Chime Emmanuel <irozuruchimezerem@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1"
+  }
+}
